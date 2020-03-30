@@ -1,0 +1,2 @@
+i stored all the information with a vector of pairs inside a vector.
+the index is the current vertice and everything inside the index is edges it can go to along with the weight  edges[v0] = vector <int v1, double weight>
